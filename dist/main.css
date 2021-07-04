@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+ font-family: "Lato", normal;
+}
+
+#random_title {
+    font-family: "Poppins", normal;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 1em;
+}
+
+button{
+    font-size: large;
+}
+
+button:focus {outline:0;}
